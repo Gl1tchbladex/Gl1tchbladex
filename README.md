@@ -30,10 +30,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@catcoderx" target="_blank">
-    <img src="https://www.gl1tchblade.dev/assets/profile.jpg" height="35" alt="Gl1tchblade's portfolio"  />
-  </a>
-</div>
+
 
 ###
